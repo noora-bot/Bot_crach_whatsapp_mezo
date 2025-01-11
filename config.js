@@ -53,7 +53,7 @@ global.antilinkwarn = process.env.ANTILINK_WARN === 'true';
 
 global.mess = {
     success: process.env.MESSAGE_SUCCESS || '𝙳𝚘𝚗𝚎',
-    admin: process.env.MESSAGE_ADMIN || '_*❗This Command Can Only Be Used By Group Admins !*_',
+    admin: process.env.MESSAGE_ADMIN || '_*❗This Command Can Only Be Used By Group Admins😘 !*_',
     botAdmin: process.env.MESSAGE_BOT_ADMIN || '_*❗This Command Can Only Be Used When Bot Becomes Group Admin !*_',
     OnlyOwner: process.env.MESSAGE_OWNER || '_*❗This Command Can Only Be Used By My Owner !*_',
     OnlyGrup: process.env.MESSAGE_GROUP || '_*❗This Command Can Only Be Used In Group Chat !*_',
